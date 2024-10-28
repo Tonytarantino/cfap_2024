@@ -1,0 +1,44 @@
+*{
+    font-family: "Ubuntu", sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bxs-leaf{
+    color: green;
+    font-size: 80px;
+    background-color: gold;
+    border-radius: 50%;
+}
+
+h1{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: center;
+}
+
+/* h2{
+    font-family: "Ubuntu", sans-serif;
+}
+
+h3{
+    font-family: "Ubuntu", sans-serif;
+}
+ */
+
+p{
+    /* font-family: "Ubuntu", sans-serif; */
+    line-height: 30px;
+    letter-spacing: 2px;
+}
+
+.claseUno{
+    color: white !important;
+    background-color: grey;
+}
+

@@ -1,0 +1,68 @@
+body{
+    background-color: #FEEE91;
+}
+
+.contenedor{
+    margin: 20px;
+    background-color: #fff;
+    border: 2px solid #4CC9FE;
+    border-radius: 10px;
+    display: flex;
+}
+
+.caja{
+    height: 100px;
+    width: 100px;
+    border: 2px solid #FF9D3D;
+    margin: 20px;
+    background-color: #FEEE91;
+    border-radius: 20px;
+}
+
+.cajaDos{
+    justify-content: center ;
+}
+
+.cajaTres{
+   justify-content: end; 
+}
+
+.cajaCuatro{
+    justify-content: space-around;
+}
+
+.cajaCinco{
+    justify-content: space-between;
+}
+
+.cajaSeis{
+    justify-content: space-evenly;
+}
+
+.contenedorHorizontal{
+    display: flex;
+    justify-content: center;
+}
+
+.caja1{
+    height: 50px;
+    width: 50px;
+    border: 2px solid #FF9D3D;
+    margin: 10px;
+    background-color: #FEEE91;
+    border-radius: 10px;
+}
+.cajaSiete{  
+    align-items: start;
+}
+
+.cajaOcho{
+    height: 250px;
+    align-items: center;
+}
+
+.cajaNueve
+{
+    height: 250px;
+    align-items: end;
+}
