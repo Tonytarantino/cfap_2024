@@ -1,0 +1,39 @@
+.fondoNav {
+    background-color: #626F47;
+
+}
+
+.navbar-brand {
+    color: #ffff;
+}
+
+.nav-link {
+    color: #ffff;
+}
+
+.card {
+    border: none;
+}
+
+.tarjeta {
+    margin: 20px;
+    width: 18rem;
+
+    border-radius: 0;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.44);
+}
+
+.card-img-top {
+    border-radius: 0;
+}
+
+.btnComprar {
+    background-color: #798645;
+}
+
+.contenedorTarjetas{
+    display: flex;
+    justify-content: space-around;
+}

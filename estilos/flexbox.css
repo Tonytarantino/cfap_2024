@@ -1,5 +1,13 @@
 body{
-    background-color: #FEEE91;
+    background-color: #85A98F;
+}
+
+a{
+    text-decoration: none;
+    border: 2px solid #4CC9FE;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 .contenedor{

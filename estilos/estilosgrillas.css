@@ -51,6 +51,8 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    border-radius: 5%;
+    margin: 20px;
 
 }
 
@@ -62,6 +64,8 @@
     grid-column-gap: 10px;
     grid-row-gap: 10px;
     height: 400px;
+    margin: 20px;
+    
 }
 
 .div1 {
@@ -70,6 +74,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    border-radius: 5%;
 }
 
 .div2 {
@@ -78,6 +83,7 @@
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
+    border-radius: 5%;
 }
 
 .div3 {
@@ -86,6 +92,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    border-radius: 5%;
 }
 
 .div4 {
@@ -101,6 +108,7 @@
     text-align: center;
     color: #626F47;
     font-size: 50px;
+   
 }
 
 .div5 {
@@ -123,4 +131,6 @@
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
+    border-radius: 8%;
+     
 }
